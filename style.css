@@ -1,0 +1,138 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+    color: white;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.header-logo {
+    font-size: 24px;
+    color: white;
+    margin: 12px;
+
+}
+.links {
+    display: flex;
+}
+ul {
+    display: flex;
+    gap: 16px;
+    list-style: none;
+}
+li {
+    color:
+}
+a {
+    text-decoration: none;
+    color:rgb(214, 215, 224);
+}
+img {
+    width:auto;
+    height: 200px;
+}
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: white;  
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.container {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+.small-images {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 16px;
+}
+.big-images {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    gap: 70px;
+    padding: 50px 70px 70px 70px;
+    
+}
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+    
+}
+.box {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    border: red;
+    padding-left: 0px;
+    margin-left: 0px;
+    width: 600px;
+    margin-left: 300px;
+    margin-bottom: 75px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.boxsecond {
+    display: ;
+    align-self: center;
+    margin-left: 30px;
+    color: red;
+}
+h3 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+}
+h2 {
+    text-align: center;
+    font-size: 48px;
+    color: white;
+}
+
+.secondimg {
+    width: 20px;
+    height: auto;
+}
+.random {
+    color: white;
+    font-size: 18px;
+}
+
+button {
+    background-color: #3882F6;
+    border: none;
+    color: white;
+    padding: 5px;
+    border-radius: 7px;
+    font-size: 18px;
+
+}
+h6 {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+
+.ourproduct {
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+.lastbutton {
+    color: white;
+    border: solid;
+    border-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
